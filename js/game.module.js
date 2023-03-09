@@ -1,4 +1,8 @@
 import { displayGames } from "./ui.moudle.js";
+
+
+
+
 export class showGameHome{
     constructor(response){
         this.response=response;

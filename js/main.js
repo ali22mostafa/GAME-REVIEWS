@@ -1,4 +1,5 @@
 import { displayGames } from "./ui.moudle.js";
+
 let show=new displayGames()
 // change active Link
 $(".nav-link").click(function(){
